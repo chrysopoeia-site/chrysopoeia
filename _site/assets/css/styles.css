@@ -247,6 +247,9 @@ header {
 .writing-body {
     p, li {
         text-align: justify;
+        /* word-spacing: -2; */
+        /* word-break: break-all; */
+        hyphens: auto;
     }
     margin: 5px;
     display: flex;
