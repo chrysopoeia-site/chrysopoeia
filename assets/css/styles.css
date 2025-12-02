@@ -413,10 +413,14 @@ main h2 {
                 background-color: var(--black);
                 display: inline;
                 padding: 2px 5px 2px 5px;
+                justify-self: right;
+            }
+            .rating {
+                margin-bottom: 10px;
             }
             .release-date {
                 /* color: var(--yellow); */
-                margin-top: 5px;
+                margin: 5px 0px 5px 0px;
                 font-size: 0.9em;
             }
             .media-post-content {
