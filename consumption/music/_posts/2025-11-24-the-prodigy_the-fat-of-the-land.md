@@ -8,5 +8,10 @@ rating: "3.5"
 
 This shit rips.
 
-take my PIC-chaaaa
-smack by BITCH uuuuuup
+Notable excerpts:
+
+"take my PIC-chaaaa
+smack by BITCH uuuuuup"
+
+"I'm the fiyah stahhhtah,
+tuhwisted fiyah stahtah"
