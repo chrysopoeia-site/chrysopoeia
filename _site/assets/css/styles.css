@@ -354,6 +354,31 @@ main h2 {
     }
 }
 
+.blog-post-main {
+    article {
+        padding: 0px 50px 0px 50px;
+    }
+    h1 {
+        color: var(--yellow);
+    }
+    .date-line {
+        color: var(--yellow);
+    }
+    h2 {
+        margin-top: 30px;
+    }
+    >* {margin-bottom: 15px;}
+    p {
+        /* text-indent: 50px; */
+        margin-bottom: 15px;
+    }
+    ul {
+        margin-left: 50px;
+        list-style-type: disc;
+        li {margin-bottom: 15px;}
+    }
+}
+
 .gallery {
     background-color: var(--dark-green);
     display: flex;

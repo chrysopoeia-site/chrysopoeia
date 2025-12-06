@@ -8,13 +8,19 @@ layout: default
         {% include aside-music-player.html %}
     </aside>
     <main>
-        <div class="blog-main">
+        <div class="blog-post-main">
             <a onclick="history.back()" style="cursor: pointer;"><< back</a>
+            <br>
+            <br>
             <article>
                 <h1>{{page.title}}</h1>
                 <p class="date-line">{{page.date | date: "%Y-%m-%d"}}</p>
+                <br>
                 {{content}}
             </article>
+            <br>
+            <br>
+            <a onclick="history.back()" style="cursor: pointer;"><< back</a>
         </div>
     </main>
 </div>
