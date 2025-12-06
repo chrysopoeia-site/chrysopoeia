@@ -1,0 +1,1 @@
+Sometimes at work I find myself standing in front of my locker, keys in hand, unsure if I'm coming or going.
