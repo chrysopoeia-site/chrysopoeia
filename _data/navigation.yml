@@ -1,11 +1,11 @@
 - name: home
   link: /
+- name: ))<>((
+  link: /art.html
 - name: blog
   link: /blog.html
 - name: music
   link: /music.html
-- name: writing
-  link: /writing.html
 - name: consumption
   link: /consumption.html
 - name: about

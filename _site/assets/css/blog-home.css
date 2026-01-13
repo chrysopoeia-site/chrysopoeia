@@ -1,0 +1,187 @@
+:root {
+    /* --main: #555; */
+    /* --main-dark: #2d2d2d; */
+    /* --bg: #131313; */
+    --main: #ede8dc;
+    --main-dark: #555;
+    --bg: #a6a29a;
+    --black: #191713;
+    --red: #6f3939;
+    --purple: #5c3f79;
+    --yellow: #ddb931;
+    --dark-yellow: #6c6b10;
+    --blue: #2a6ca6;
+    --teal: #28886d;
+    --ochre1: #877539;
+    --ochre2: #8B7948;
+    --green1: #978f43;
+    --green2: #908b4c;
+    --yellow-green: #ac9e5c;
+    --light-gray: #c5c5c4;
+    --off-white: #191713;
+    --box-shadow: #000;
+}
+* {
+    color: var(--black);
+    /* color: white; */
+}
+body {
+    background-color: var(--bg);
+}
+h1 {
+    color: var(--off-white);
+}
+a, a:visited {
+    background: var(--black);
+    /* background: linear-gradient(to top, var(--off-white) 70%, transparent 50%); */
+    /* color: var(--yellow); */
+    color: var(--main);
+}
+a:hover {
+    color: var(--black);
+    background: linear-gradient(to top, var(--white)50%, transparent 50%);
+}
+legend {
+    color: var(--red);
+    text-shadow: 1px 1px 2px var(--black);
+}
+
+#site-logo {
+    background-color: transparent;
+    .logo-ctr {
+        &:hover {
+            h1 {
+                background: linear-gradient(to top, var(--off-white) 0%, transparent 40%);
+            }
+            .moon {
+                color: var(--red);
+            }
+            .stars {
+                color: var(--yellow);
+            }
+            .logo-lines {color: var(--main-dark); }
+        }
+    }
+}
+
+header {
+    border: 5px double var(--main-dark);
+    background-color: var(--main);
+    box-shadow: 10px 10px 2px var(--box-shadow);
+}
+
+.nav-link {
+    background-color: transparent;
+}
+
+.tweets-ctr {
+    .tweet {
+        .tweet-date {
+            color: var(--yellow);
+        }
+    }
+}
+
+.aside {
+    .aside-item {
+        border: 5px double var(--main-dark);
+        background-color: var(--main-dark);
+        box-shadow: 10px 10px 2px var(--box-shadow);
+        &:hover {
+            background-color: var(--main);
+            legend {
+                color: var(--black);
+                text-shadow: 1px 1px 2px var(--white);
+            }
+        }
+    }
+}
+.updates-ctr {
+    scrollbar-color: var(--yellow-green) var(--yellow);
+    .update-date {color: var(--yellow);}
+}
+.site-progress-ctr {
+    ul {
+        li {
+            background-color: var(--main-dark);
+            color: var(--yellow);
+        }
+    }
+}
+main {
+    box-shadow: 10px 10px 2px var(--box-shadow);
+    border: 5px double var(--main-dark);
+    background-color: var(--main);
+    .tweets-field {
+        scrollbar-color: var(--yellow-green) var(--yellow);
+    }
+}
+
+/*
+ * BLOG PAGE SHIT
+ * */
+
+main h2 {
+    color: var(--off-white);
+}
+.blog-main, .writing-main {
+    background-color: var(--main);
+    ul {
+        .post-excerpt {
+            /* border: 1px solid var(--main-dark); */
+            background-color: var(--bg);
+        }
+    }
+}
+.blog-post-main {
+    article {
+        padding: 0px 50px 0px 50px;
+        figcaption * {
+            background-color: var(--black);
+            color: white;
+            /* color: var(--main); */
+        }
+    }
+    h1 {
+        display: inline-block;
+        padding: 10px;
+        /* background-color: var(--main-dark); */
+        background-color: var(--black);
+        color: var(--main);
+    }
+    .date-line {
+        /* display: inline-block; */
+        /* padding: 10px; */
+        /* background-color: var(--main-dark); */
+        color: var(--black);
+    }
+    h2 {
+        margin-top: 30px;
+    }
+    >* {margin-bottom: 15px;}
+    p {
+        /* text-indent: 50px; */
+        margin-bottom: 15px;
+    }
+    ul {
+        margin-left: 50px;
+        list-style-type: disc;
+        li {margin-bottom: 15px;}
+    }
+}
+
+.gallery {
+    background-color: var(--main-dark);
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    margin-top: 15px;
+    padding: 10px;
+}
+.date-line {
+    margin-bottom: 40px;
+    font-size: 0.8em;
+}
+.footnotes-divider {
+    margin-top: 15px;
+}

@@ -30,8 +30,9 @@
 }
 
 :root {
-    --bg-green: #1d2202;
-    --dark-green: #313c0f;
+    --main: #4d5c1c;
+    --main-dark: #313c0f;
+    --bg: #1d2202;
     --black: #191713;
     --red: #6f3939;
     --purple: #5c3f79;
@@ -46,7 +47,6 @@
     --yellow-green: #ac9e5c;
     --light-gray: #c5c5c4;
     --off-white: #ede8dc;
-    --green: #4d5c1c;
 
     --base-font-size: 22px;
     --body-text-area-padding: 30px;
@@ -97,7 +97,7 @@ body::before {
     z-index: 200;
 }
 body {
-    background-color: var(--bg-green);
+    background-color: var(--bg);
     font-size: var(--base-font-size);
 }
 h1 {
@@ -186,14 +186,14 @@ fieldset {
                 color: var(--yellow);
                 animation: subtle-skew-x-shaking 0.5s infinite;
             }
-            .logo-lines {color: var(--dark-green); }
+            .logo-lines {color: var(--main-dark); }
         }
     }
 }
 
 header {
     border: 5px double #313c0f;
-    background-color: var(--green);
+    background-color: var(--main);
     /* box-shadow: 10px 10px var(--off-white); */
     box-shadow: 10px 10px 2px var(--off-white);
     margin: 15px 5px 15px 5px;
@@ -234,7 +234,6 @@ header {
 .root-ctr {
     max-width: 1200px;
     margin: auto;
-    border-radius: 15px;
     display: flex;
     flex-direction: column;
 }
@@ -268,10 +267,10 @@ header {
     .aside-item {
         border: 5px double #313c0f;
         margin-bottom: 20px;
-        background-color: var(--dark-green);
+        background-color: var(--main-dark);
         padding: 5px;
         box-shadow: 10px 10px 2px var(--off-white);
-        &:hover {background-color: var(--green);}
+        &:hover {background-color: var(--main);}
     }
 }
 .updates-ctr {
@@ -290,7 +289,7 @@ header {
         scrollbar-width: none;
         li {
             text-align: left;
-            background-color: var(--dark-green);
+            background-color: var(--main-dark);
             margin-bottom: 15px;
             color: var(--yellow);
         }
@@ -303,7 +302,7 @@ main {
     padding: var(--body-text-area-padding);
     flex: 1 1 50%;
     margin: 5px 15px 5px 15px;
-    background-color: var(--green);
+    background-color: var(--main);
     >* {margin-bottom: 15px;}
     p {
         margin-bottom: 15px;
@@ -341,7 +340,7 @@ main h2 {
 .blog-main, .writing-main {
     /* flex: 1 1 100%; */
     /* margin: 5px 15px 5px 15px; */
-    background-color: var(--green);
+    background-color: var(--main);
     >* {margin-bottom: 15px;}
     ul {
         margin-left: 0px;
@@ -349,7 +348,7 @@ main h2 {
         display: block;
         .post-excerpt {
             margin-top: 5px;
-            background-color: var(--dark-green);
+            background-color: var(--main-dark);
         }
     }
 }
@@ -361,13 +360,13 @@ main h2 {
     h1 {
         display: inline-block;
         padding: 10px;
-        background-color: var(--dark-green);
+        background-color: var(--main-dark);
         color: var(--yellow);
     }
     .date-line {
         /* display: inline-block; */
         /* padding: 10px; */
-        /* background-color: var(--dark-green); */
+        /* background-color: var(--main-dark); */
         color: var(--yellow);
     }
     h2 {
@@ -386,7 +385,7 @@ main h2 {
 }
 
 .gallery {
-    background-color: var(--dark-green);
+    background-color: var(--main-dark);
     display: flex;
     justify-content: space-between;
     height: 100px;
@@ -408,7 +407,7 @@ main h2 {
 .media-ctr {
     display: flex;
     flex-direction: column;
-    background-color: var(--dark-green);
+    background-color: var(--main-dark);
     align-content: flex-start;
     justify-content: flex-start;
     flex-wrap: wrap;

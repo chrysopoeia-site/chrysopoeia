@@ -1,26 +1,37 @@
----
-layout: default
----
-
-<div class="blog-body">
-    <aside class="aside left-aside">
-        {% include aside-nav.html %}
-        {% include aside-music-player.html %}
-    </aside>
-    <main>
-        <div class="blog-post-main">
-            <a onclick="history.back()" style="cursor: pointer;"><< back</a>
-            <br>
-            <br>
-            <article>
-                <h1>{{page.title}}</h1>
-                <p class="date-line">{{page.date | date: "%Y-%m-%d"}}</p>
-                <br>
-                {{content}}
-            </article>
-            <br>
-            <br>
-            <a onclick="history.back()" style="cursor: pointer;"><< back</a>
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+    {% include head.html %}
+        <link rel="stylesheet" href="/assets/css/blog-home.css">
+    </head>
+    <body>
+        <div class="wrapper">
+            <div class="root-ctr">
+                {% include header.html %}
+                <div class="blog-body">
+                    <aside class="aside left-aside">
+                        {% include aside-nav.html %}
+                        {% include aside-music-player.html %}
+                    </aside>
+                    <main>
+                        <div class="blog-post-main">
+                            <a onclick="history.back()" style="cursor: pointer;"><< back</a>
+                            <br>
+                            <br>
+                            <article>
+                                <h1>{{page.title}}</h1>
+                                <p class="date-line">{{page.date | date: "%Y-%m-%d"}}</p>
+                                <br>
+                                {{content}}
+                            </article>
+                            <br>
+                            <br>
+                            <a onclick="history.back()" style="cursor: pointer;"><< back</a>
+                        </div>
+                    </main>
+                </div>
+                {% include footer.html %}
+            </div>
         </div>
-    </main>
-</div>
+    </body>
+</html>

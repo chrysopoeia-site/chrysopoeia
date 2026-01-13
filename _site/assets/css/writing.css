@@ -1,0 +1,104 @@
+:root {
+    --main: #4a3c3c;
+    --main-dark: #392d2d;
+    --bg: #1c1515;
+    --black: #191713;
+    --red: #6f3939;
+    --purple: #5c3f79;
+    --yellow: #ddb931;
+    --dark-yellow: #6c6b10;
+    --blue: #2a6ca6;
+    --teal: #28886d;
+    --ochre1: #877539;
+    --ochre2: #8B7948;
+    --green1: #978f43;
+    --green2: #908b4c;
+    --yellow-green: #ac9e5c;
+    --light-gray: #c5c5c4;
+    --off-white: #ede8dc;
+}
+* {
+    color: white;
+}
+body {
+    background-color: var(--bg);
+}
+h1 {
+    color: var(--off-white);
+}
+a, a:visited {
+    background: linear-gradient(to top, var(--red) 50%, transparent 50%);
+    color: var(--yellow);
+}
+a:hover {
+    color: var(--red);
+    background: linear-gradient(to top, var(--yellow)50%, transparent 50%);
+}
+legend {
+    color: var(--yellow);
+}
+
+#site-logo {
+    background-color: transparent;
+    .logo-ctr {
+        &:hover {
+            h1 {
+                background: linear-gradient(to top, var(--off-white) 0%, transparent 40%);
+            }
+            .moon {
+                color: var(--red);
+            }
+            .stars {
+                color: var(--yellow);
+            }
+            .logo-lines {color: var(--main-dark); }
+        }
+    }
+}
+
+header {
+    border: 5px double var(--main-dark);
+    background-color: var(--main);
+    box-shadow: 10px 10px 2px var(--off-white);
+}
+
+.nav-link {
+    background-color: transparent;
+}
+
+.tweets-ctr {
+    .tweet {
+        .tweet-date {
+            color: var(--yellow);
+        }
+    }
+}
+
+.aside {
+    .aside-item {
+        border: 5px double var(--main-dark);
+        background-color: var(--main-dark);
+        box-shadow: 10px 10px 2px var(--off-white);
+        &:hover {background-color: var(--main);}
+    }
+}
+.updates-ctr {
+    scrollbar-color: var(--yellow-green) var(--yellow);
+    .update-date {color: var(--yellow);}
+}
+.site-progress-ctr {
+    ul {
+        li {
+            background-color: var(--main-dark);
+            color: var(--yellow);
+        }
+    }
+}
+main {
+    box-shadow: 10px 10px 2px var(--off-white);
+    border: 5px double var(--main-dark);
+    background-color: var(--main);
+    .tweets-field {
+        scrollbar-color: var(--yellow-green) var(--yellow);
+    }
+}
