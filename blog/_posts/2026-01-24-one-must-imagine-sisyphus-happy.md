@@ -46,7 +46,7 @@ And so you open the app store and get a new pie chart to start filling. Gotta lo
 
 She hands your phone back and starts doing something on the computer, presumably trying other options; hopefully not doing anything like what your doing, which is tapping "View my card," looking at the blank screen, going back, and then doing it again.
 
-"I'm sorry, I can't pull up anything," 1:10. "We can still see you today but I'm going need to give you this form and code the visit as out-of-pocket and then afterwards, once you've figured your out insurance, you can call billing back and we'll resubmit the claim. For out-of-pocket, there is a $100 pre-pay and then the rest will be billed afterwards."
+"I'm sorry, I can't pull up anything," 1:10. "We can still see you today but I'm going need to give you this form and code the visit as out-of-pocket and then afterwards, once you've figured out your insurance, you can call billing back and we'll resubmit the claim. For out-of-pocket, there is a $100 pre-pay and then the rest will be billed afterwards."
 
 So you put a $100 charge on your credit card and she hands you a clipboard with a form and a thick stack of papers.
 
