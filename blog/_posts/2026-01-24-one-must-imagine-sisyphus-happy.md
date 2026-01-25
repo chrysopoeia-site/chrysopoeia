@@ -112,7 +112,7 @@ You tell him that you were referred here from your doctor specifically for these
 
 "Primary care physicians generally don't know the specifics involved with the specialists they're referring you to. He probably wouldn't have known. And either way, you'd still have needed to come to a psychiatrist first."
 
-Of course he wouldn't. The information flow. You wonder if that's by accident. You know it isn't.
+Of course he wouldn't. The information flow.
 
 "Whether you choose to get evaluated for *Y* or not, I'd like to make another appointment in April so we can talk a little more before trying any prescriptions."
 
