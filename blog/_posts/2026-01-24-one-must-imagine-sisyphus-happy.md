@@ -128,7 +128,7 @@ And yet, even if you never get anywhere, you will push the boulder to the top of
 ---
 
 <br>
-This system is dripping with evil. You know it and I know it and more regulation will not fix it. Nothing less than the complete abolition of privatized healthcare will fix it. Where there is a need, there is someone willing to sell it to you. This is one of the greatest evils of capitalism. It filters for these vultures and rewards them. They're not *villains*, they're *entrepreneurs*. They're being *shrewd*. They found a need and filled it, right?.
+This system is dripping with evil. You know it and I know it and more regulation will not fix it. Nothing less than the complete abolition of privatized healthcare will fix it. Where there is a need, there is someone willing to sell it to you. This is one of the greatest evils of capitalism. It filters for these vultures and rewards them. They're not *villains*, they're *entrepreneurs*. They're being *shrewd*. They found a need and filled it, right?
 
 The profit motive spreads into every corner of our world until all things that were once universal goods are for a price. They become private goods. You don't get to enjoy them just because you're human, they're only for people who can afford them. Capitalism makes it such that even health is not for everyone. It is made a luxury. And a society in which you are not guaranteed healthcare, a society where it costs money to remain alive is not built for everyone and it deserves to be torn down.
 
