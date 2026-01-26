@@ -1,0 +1,1 @@
+Finding personal websites has been such a moving experience. It's kinda cheesy, but it really fills me with new love for the world and all the strangers out there making stuff and adding their personality to the web. I'm just happy to know y'all are around and have a space where you don't have to hide anything. Keep going!
