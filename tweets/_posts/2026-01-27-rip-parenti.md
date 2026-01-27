@@ -1,0 +1,1 @@
+Rest in peace, Michael Parenti. 92 years of fighting the good fight.
