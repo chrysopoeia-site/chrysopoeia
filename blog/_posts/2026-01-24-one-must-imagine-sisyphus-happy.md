@@ -120,15 +120,16 @@ And so your journey to get help has turned into a doctor's visit, some labs, som
 
 And so you did. And so you will again.
 
-To be in these healthcare spaces is to enter into an uncanny world where you and the humans who work there must proceed through the transaction without acknowledging the absurdity. It's as though everyone involved has a vulture on their head, pecking their eyes out and must pretend like it isn't so. The whole time you are there you want to scream and shake these people and show them that they bleed the same as you.
+To be in these healthcare spaces is to enter into an uncanny world where you and the humans who work there must proceed through the transaction without acknowledging the absurdity. It’s as though everyone involved has a vulture on their head, pecking their eyes out and must pretend like it isn’t so. The whole time you are there you want to scream and shake these people and show them that they bleed the same as you.
 
-And yet, even if you never get anywhere, you will push the boulder to the top of the hill again and hope that it doesn't fall *all* the way to the bottom this time. What else is there to do?
+And yet, even if you never get anywhere, you will push the boulder to the top of the hill again and hope that it doesn’t fall all the way to the bottom this time. What else is there to do? 
+
 <br>
 
 ---
 
 <br>
-This system is dripping with evil. You know it and I know it and more regulation will not fix it. Nothing less than the complete abolition of privatized healthcare will fix it. Where there is a need, there is someone willing to sell it to you. This is one of the greatest evils of capitalism. It filters for these vultures and rewards them. They're not *villains*, they're *entrepreneurs*. They're being *shrewd*. They found a need and filled it, right?
+This system is dripping with evil. You know it and I know it and more regulation will not fix it. Nothing less than the complete abolition of privatized healthcare will fix it. Where there is a need, there is someone willing to sell it to you. This is one of the greatest evils of capitalism. It filters for these vultures and rewards them. These insurance companies, these private practices, these for-profit facilities, they're not *villains*, they're *entrepreneurs*. They're being *shrewd*. They found a need and filled it, right?
 
 The profit motive spreads into every corner of our world until all things that were once universal goods are for a price. They become private goods. You don't get to enjoy them just because you're human, they're only for people who can afford them. Capitalism makes it such that even health is not for everyone. It is made a luxury. And a society in which you are not guaranteed healthcare, a society where it costs money to remain alive is not built for everyone and it deserves to be torn down.
 
