@@ -10,7 +10,7 @@ This shit rips.
 
 Notable excerpts:
 
-"take my PIC-chaaaa
+"change my PITCH uuuuuup,
 smack by BITCH uuuuuup"
 
 "I'm the fiyah stahhhtah,
