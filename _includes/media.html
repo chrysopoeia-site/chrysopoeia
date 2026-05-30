@@ -56,8 +56,18 @@
                     ★★★★☆ ½
                 {% when "5" %}
                     ★★★★★
+                {% when "---" %}
+
+                {% when "in progress" %}
+                    {% if post.type == "book" %}
+                        <b><i>> Currently Reading <</i></b>
+                    {% elsif post.type == "game" %}
+                        <b><i>> Currently Playing <</i></b>
+                    {% else %}
+                        <b><i>> Current <</i></b>
+                    {% endif %}
                 {% else %}
-                    {{post.rating}}
+                    {{post.rating}}★
                 {%endcase%}
             </div>
             <div class="media-post-content">
